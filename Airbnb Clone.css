@@ -9,6 +9,10 @@ a {
     color: black;
 }
 
+b {
+    margin-top: 10px;
+}
+
 .top-banner {
     background: black;
     padding: 20px 40px;
@@ -263,6 +267,7 @@ nav>div {
 }
 .community a {
     color: black;
+    display: grid;
 }
 
 /*Footer*/
